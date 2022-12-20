@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshsharma008
-- 👀 I’m interested in building different websites
-- 🌱 I’m currently learning  React
+- 👀 I’m interested 
+- 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me from harshsharma01012002@gmail.com
 
