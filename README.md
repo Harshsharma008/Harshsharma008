@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Harshsharma008
-- 👀 I’m interested in...
-- 🌱 I’m currently learning  
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me from harshsharma01012002@gmail.com
+//                                                         👋 Hi, I’m @Harsh Sharma
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                                    
+- 📫                                     you can reach me from harshsharma01012002@gmail.com
 
 
 <!---
