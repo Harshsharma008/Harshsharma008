@@ -4,8 +4,8 @@
  
 
 ## 🚀 About Me
-- 🔭 I am currently working on Web Development and the Software Development
-- 💬 Ask me about DSA and Development
+- 🔭 I am currently working on Web Development and the Software Development.
+- 💬 Ask me about DSA and Development.
 - ⚡ Fun fact Coding is a passion and not profession.
 
 
