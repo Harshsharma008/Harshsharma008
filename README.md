@@ -18,6 +18,9 @@
 
 ## 🛠 Skills
 - React.js
+- Node.js
+- Express
+- MongoDB
 - Core Java
 - Javascript
 - MySQL
