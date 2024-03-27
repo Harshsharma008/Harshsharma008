@@ -12,7 +12,7 @@
 ## 🔗 Links
 [![my_portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://harsh-01.vercel.app/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-sharma-01jan2002/)
-[![leetcode](https://img.shields.io/badge/leetcode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/harshsharma01012002/)
+[![leetcode](https://img.shields.io/badge/leetcode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/LogicMaestro_01/)
 
 
 
